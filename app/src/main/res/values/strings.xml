@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="title_home">accueil</string>
+    <string name="title_dashboard">statistique</string>
+    <string name="title_notifications">info</string>
+    <string name="technologies">💻 Technologies</string>
+    <string name="culture_general">📚 Culture générale</string>
+    <string name="divertissement">🎮 Divertissement</string>
+    <string name="sports">⚽ Sports</string>
+    <string name="tit_info">À propos de l application</string>
+    <string name="choisir_categorie">Choisir la catégorie des quizz :</string>
+    <string name="info_desc">Cette application vous permet de tester vos connaissances dans plusieurs catégories grâce à une série de quiz amusants et éducatifs.</string>
+
+    <string name="next_button_text">SUIVANT</string>
+    <string name="st_h">votre statique pour chaque catecoris</string>
+    <string name="st_g">Statique Globale</string>
+
+    <!--les questions de catigorie 1 culture générale  -->
+    <string name="cat1_q1_question">Quelle est la capitale de l Australie ?</string>
+    <string name="cat1_q1_option1">Sydney</string>
+    <string name="cat1_q1_option2">Melbourne</string><!--correcte-->
+    <string name="cat1_q1_option3">Canberra</string>
+    <string name="cat1_q1_option4">Perth</string>
+
+    <string name="cat1_q2_question">Quelle est la capitale de l Italie ?</string>
+    <string name="cat1_q2_option1">Madrid</string>
+    <string name="cat1_q2_option2">Rome</string><!--correcte-->
+    <string name="cat1_q2_option3">Lisbonne</string>
+    <string name="cat1_q2_option4">Athènes</string>
+
+    <string name="cat1_q3_question">Quel est l élément chimique dont le symbole est O ?</string>
+    <string name="cat1_q3_option1">Or</string>
+    <string name="cat1_q3_option2">Oxygène</string><!--correcte-->
+    <string name="cat1_q3_option3">Osmium</string>
+    <string name="cat1_q3_option4">Ozone</string>
+
+    <string name="cat1_q4_question">Quel océan est le plus grand au monde ?</string>
+    <string name="cat1_q4_option1">Atlantique</string>
+    <string name="cat1_q4_option2">Indien</string>
+    <string name="cat1_q4_option3">Pacifique</string><!--correcte-->
+    <string name="cat1_q4_option4">Arctique</string>
+
+    <string name="cat1_q5_question">Combien y a-t-il de continents dans le monde ?</string>
+    <string name="cat1_q5_option1">7</string><!--correcte-->
+    <string name="cat1_q5_option2">2</string>
+    <string name="cat1_q5_option3">6</string>
+    <string name="cat1_q5_option4">8</string>
+
+
+    <!--les questions de catigorie 2  films et séries-->
+    <string name="cat2_q1_question">Dans quel film trouve-t-on le personnage Jack Sparrow ?</string>
+    <string name="cat2_q1_option1">Titanic</string>
+    <string name="cat2_q1_option2">Pirates des Caraïbes</string><!--correcte-->
+    <string name="cat2_q1_option3">Le Seigneur des Anneaux</string>
+    <string name="cat2_q1_option4">Avatar</string>
+
+    <string name="cat2_q2_question">Quelle série met en scène un professeur de chimie devenu fabricant de drogue ?</string>
+    <string name="cat2_q2_option1">Narcos</string>
+    <string name="cat2_q2_option2">Breaking Bad</string><!--correcte-->
+    <string name="cat2_q2_option3">Ozark</string>
+    <string name="cat2_q2_option4">Power</string>
+
+    <string name="cat2_q3_question">Quel film a remporte l Oscar du meilleur film en 2020 ?</string>
+    <string name="cat2_q3_option1">Joker</string>
+    <string name="cat2_q3_option2">1917</string>
+    <string name="cat2_q3_option3">Parasite</string><!--correcte-->
+    <string name="cat2_q3_option4">Once Upon a Time in Hollywoode</string>
+
+    <string name="cat2_q4_question">Dans quelle saga trouve-t-on le personnage Darth Vader  ?</string>
+    <string name="cat2_q4_option1">Star Trek</string>
+    <string name="cat2_q4_option2">Star Wars</string><!--correcte-->
+    <string name="cat2_q4_option3">Harry Potter</string>
+    <string name="cat2_q4_option4">Matrix</string>
+
+    <string name="cat2_q5_question">Quel acteur incarne Iron Man dans le MCU ?</string>
+    <string name="cat2_q5_option1">Chris Evans</string>
+    <string name="cat2_q5_option2">Robert Downey Jr.</string><!--correcte-->
+    <string name="cat2_q5_option3">Chris Hemsworth</string>
+    <string name="cat2_q5_option4">Mark Ruffalo</string>
+
+
+    <!--les questions de catigorie 3 technologies et informatique -->
+    <string name="cat3_q1_question">Quel est le langage principalement utilisé pour développer des applications Android ?</string>
+    <string name="cat3_q1_option1">JavaScript</string>
+    <string name="cat3_q1_option2">Python</string>
+    <string name="cat3_q1_option3">Java</string><!--correcte-->
+    <string name="cat3_q1_option4">Swift</string>
+
+    <string name="cat3_q2_question">Quel est le nom du système d exploitation développé par Apple ?</string>
+    <string name="cat3_q2_option1">Linux</string>
+    <string name="cat3_q2_option2">Android</string>
+    <string name="cat3_q2_option3">Windows</string>
+    <string name="cat3_q2_option4">macOS</string><!--correcte-->
+
+    <string name="cat3_q3_question"> Quel composant est considéré comme le cerveau  de l ordinateur ?</string>
+    <string name="cat3_q3_option1">Disque dur</string>
+    <string name="cat3_q3_option2">Carte graphique</string>
+    <string name="cat3_q3_option3">Processeur (CPU)</string><!--correcte-->
+    <string name="cat3_q3_option4">RAM</string>
+
+    <string name="cat3_q4_question">Quel géant de la tech est à l origine du système Android ?</string>
+    <string name="cat3_q4_option1">Apple</string>
+    <string name="cat3_q4_option2">Google</string><!--correcte-->
+    <string name="cat3_q4_option3">Samsung</string>
+    <string name="cat3_q4_option4">Microsoft</string>
+
+    <string name="cat3_q5_question">Que signifie l acronyme AI en technologie ?</string>
+    <string name="cat3_q5_option1">Advanced Interface</string>
+    <string name="cat3_q5_option2">Automatic Input</string>
+    <string name="cat3_q5_option3">Artificial Intelligence</string><!--correcte-->
+    <string name="cat3_q5_option4">Augmented Internet</string>
+
+
+    <!--les questions de catigorie 4 Sports  -->
+    <string name="cat4_q1_question">Quel pays a remporté la Coupe du Monde 2018 ?</string>
+    <string name="cat4_q1_option1">Brésil</string>
+    <string name="cat4_q1_option2">France</string><!--correcte-->
+    <string name="cat4_q1_option3">Allemagne</string>
+    <string name="cat4_q1_option4">Argentine</string>
+
+    <string name="cat4_q2_question">Quel joueur détient le plus de Ballons d’Or ?</string>
+    <string name="cat4_q2_option1">Lionel Messi</string><!--correcte-->
+    <string name="cat4_q2_option2">Cristiano Ronaldo</string>
+    <string name="cat4_q2_option3">Pelé</string>
+    <string name="cat4_q2_option4">Johan Cruyff</string>
+
+    <string name="cat4_q3_question">Dans quel sport utilise-t-on une raquette et un volant ?</string>
+    <string name="cat4_q3_option1">Tennis</string>
+    <string name="cat4_q3_option2">Squash</string>
+    <string name="cat4_q3_option3">Badminton</string><!--correcte-->
+    <string name="cat4_q3_option4">Tennis de table</string>
+
+    <string name="cat4_q4_question">Quelle équipe NBA a gagné le plus de titres ?</string>
+    <string name="cat4_q4_option1">Miami Heat</string>
+    <string name="cat4_q4_option2">Chicago Bulls</string>
+    <string name="cat4_q4_option3">Los Angeles Lakers</string>
+    <string name="cat4_q4_option4">Boston Celtics</string><!--correcte-->
+
+    <string name="cat4_q5_question">Quel est le record du 100 mètres masculin (Usain Bolt) ?</string>
+    <string name="cat4_q5_option1">9,72 s</string>
+    <string name="cat4_q5_option2">9,58 s</string><!--correcte-->
+    <string name="cat4_q5_option3">9,64 s</string>
+    <string name="cat4_q5_option4">9,80 s</string>
+</resources>
